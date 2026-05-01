@@ -1,4 +1,4 @@
-# FINANCIAL-PERFORMANCE-PROJECT
+# FINANCIAL-PERFORMANCE
 
 # 💰 Financial Performance Analysis Dashboard
 
