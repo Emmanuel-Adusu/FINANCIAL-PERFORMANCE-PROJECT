@@ -109,10 +109,10 @@ Profit Margin = DIVIDE([Total Profit], [Total Revenue])
 ## 📊 Dashboard Features
 
 The Power BI dashboard includes:
-KPI Cards (Revenue, Profit, Profit Margin)
-Bar Charts (Revenue by Country & Segment)
-Trend Analysis (Time-based performance)
-Interactive filtering across dimensions
+- KPI Cards (Revenue, Profit, Profit Margin)
+- Bar Charts (Revenue by Country & Segment)
+- Trend Analysis (Time-based performance)
+- Interactive filtering across dimensions
 
 ---
 
