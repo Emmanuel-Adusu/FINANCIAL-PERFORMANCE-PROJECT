@@ -118,6 +118,8 @@ The Power BI dashboard includes:
 
 ## 📸 Dashboard Preview
 
+![Financial Dashboard](images/finance_dashboard.png)
+
 
 ---
 
