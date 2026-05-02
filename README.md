@@ -148,4 +148,16 @@ The Power BI dashboard includes:
 
 This project demonstrates how financial data can be transformed into actionable insights to support strategic decision-making.
 
+---
+
+## 👤 Author
+
+Emmanuel Adusu
+Data Analyst | Power BI | SQL | Business Intelligence
+
+📧 Email: adusue191@gmail.com
+
+🌐 Portfolio: https://emmanuel-adusu.github.io/
+
+
 
